@@ -1,11 +1,9 @@
 = Ribose RPM Spec for erlang-exmpp
 
-image:https://img.shields.io/travis/riboseinc/rpm-spec-erlang-exmpp/master.svg[Build Status (Travis CI), link=https://travis-ci.org/riboseinc/rpm-spec-erlang-exmpp]
+image:https://gitlab.com/ribose/rpm-spec/rpm-spec-erlang-exmpp/badges/master/pipeline.svg[Build Status (GitLab CI), link=https://gitlab.com/ribose/rpm-spec/rpm-spec-erlang-exmpp/commits/master]
 
 == Introduction
 
 This repository hosts the RPM spec & related Docker files for building the RPM
 package.
 
-It uses code from https://github.com/riboseinc/rpm-specs[`rpm-specs`]
-(added as a Git submodule).
